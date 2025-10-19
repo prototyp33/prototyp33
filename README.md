@@ -2,7 +2,7 @@
   <img src="httpsT://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">🚀 Meet Adrian Iraegui: Turning Bold Ideas Into Real-World Solutions</h1>
+<h1 align="center">Hi I'm Adrian Iraegui: I Turn Bold Ideas Into Real-World Solutions</h1>
 <h3 align="center">Strategic Data Analyst & Business Technologist | Barcelona & Remote</h3>
 
 ---
